@@ -1,0 +1,11 @@
+Insert into JSON File
+---------------------
+Object => String
+
+   JSON.stringify(object) => string
+
+FETCH from JSON file
+----------------------
+String => Object
+
+    JSON.parse(string) => Object
